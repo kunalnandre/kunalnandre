@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Nandre</h1>
-<h3 align="center">A passionate Computer Engineer from India</h3>
+<h3 align="center">A Passionate Computer Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/200w.gif">
 
