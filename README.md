@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalnandre&label=Profile%20views&color=0e75b6&style=flat" alt="kunalnandre" /> </p>
 
 - 🌱 I’m currently learning **Frond-End Web Developement**
-
 - 💬 Ask me about **Java, C++, Python**
 
 - 📫 How to reach me **https://www.linkedin.com/in/kunal-nandre-83a072246**
@@ -29,3 +28,6 @@
 
   </a> </p>
 
+<h3 align="left">Hackoctoberfest Badges:</h3>
+<a href="https://holopin.io/@kunal_nandre" target="_blank" rel="noreferrer">
+<img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhlcTN6OWMwMzU3MDlsM2Z4OTluOHg2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" width="50" height="50"/> </a>
