@@ -30,7 +30,7 @@
 
 
 <a href="https://www.credly.com/users/kunal-nandre/badges" target="_blank" rel="noreferrer">
-<img src="https://images.credly.com/size/680x680/images/254b883a-44a3-4cec-b6f2-946a80522b39/image.png" width="75" height="75"/> </a>
+<img src="https://images.credly.com/size/680x680/images/254b883a-44a3-4cec-b6f2-946a80522b39/image.png" width="70" height="75"/> </a>
 
 
 
