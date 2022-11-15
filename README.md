@@ -60,7 +60,7 @@
 <h3 align="left">Credly Badges:</h3>
 
 
-<a href="https://holopin.io/@kunal_nandre" target="_blank" rel="noreferrer">
+<a href="https://www.credly.com/users/kunal-nandre/badges" target="_blank" rel="noreferrer">
 <img src="https://images.credly.com/size/680x680/images/254b883a-44a3-4cec-b6f2-946a80522b39/image.png" width="50" height="50"/> </a>
 
 
