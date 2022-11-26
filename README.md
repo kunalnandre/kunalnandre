@@ -26,7 +26,7 @@
   
   
   
-<h3 align="left">Credly Badges:</h3>
+<h3 align="left">AWS Academy Badges:</h3>
 
 
 <a href="https://www.credly.com/users/kunal-nandre/badges" target="_blank" rel="noreferrer">
