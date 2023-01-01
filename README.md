@@ -11,7 +11,7 @@
 💫 About Me:
 
 - 🌱 I’m currently learning **Frond-End Web Developement**
-- 💬 Ask me about **Java, C++,**
+- 💬 Ask me about **Java, C++**
 
 - 📫 How to reach me **https://www.linkedin.com/in/kunal-nandre-83a072246**
 
