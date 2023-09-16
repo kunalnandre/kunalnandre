@@ -118,6 +118,10 @@
 <a href="https://holopin.io/@kunal_nandre" target="_blank" rel="noreferrer">
 <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHVrb3MwMDk0MDlqbnVuaGRhcDd3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" width="50" height="50"/> </a> <br><br>
 
+### GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kunalnandre&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalnandre&show_icons=true&locale=en" alt="kunalnandre" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalnandre&" alt="kunalnandre" /></p> -->
