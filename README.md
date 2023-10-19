@@ -91,6 +91,8 @@
 <a href="https://www.credly.com/users/kunal-nandre/badges" target="_blank" rel="noreferrer">
 <img src="https://images.credly.com/size/680x680/images/254b883a-44a3-4cec-b6f2-946a80522b39/image.png" width="70" height="75"/> </a> -->
 
+
+<!--
 <h3 align="left">Hackoctoberfest Badges:</h3>
 
 
@@ -117,6 +119,7 @@
 
 <a href="https://holopin.io/@kunal_nandre" target="_blank" rel="noreferrer">
 <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHVrb3MwMDk0MDlqbnVuaGRhcDd3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" width="50" height="50"/> </a> <br><br>
+-->
 
 ### GitHub Trophies
 
